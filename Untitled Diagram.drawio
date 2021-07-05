@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T17:22:38.275Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="koOLPNX1wW6zkKJm-tOm" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T17:26:30.621Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="HYZAJ0MLs1audxc9taTW" version="14.8.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,6 +132,15 @@
         <mxCell id="bePu78S5L0XEfbbnUcpo-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bePu78S5L0XEfbbnUcpo-29" target="bePu78S5L0XEfbbnUcpo-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bePu78S5L0XEfbbnUcpo-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00CC00;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bePu78S5L0XEfbbnUcpo-29" target="bePu78S5L0XEfbbnUcpo-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="195" y="570" />
+              <mxPoint x="70" y="570" />
+              <mxPoint x="70" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bePu78S5L0XEfbbnUcpo-29" value="Horno (cuenta real)" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="580" width="100" height="80" as="geometry" />
         </mxCell>
@@ -240,6 +249,9 @@
         </mxCell>
         <mxCell id="bePu78S5L0XEfbbnUcpo-73" value="Solicitud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bePu78S5L0XEfbbnUcpo-76" value="Faltante" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="440" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
