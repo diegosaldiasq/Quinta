@@ -1,0 +1,5 @@
+*.xlsx
+*.jpg
+/Grafico_histograma
+/Grafico_dispersion
+/Grafico_cajas

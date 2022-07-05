@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 *.xlsx
 *.jpg
 /Julio-2022
 /Junio-2022
 /Graficos
+=======
+*.jpg
+*.xlsx
+*.docx
+*.pptx
+>>>>>>> 0b8d825e579bc6b0248face99270e525e36ffea0
